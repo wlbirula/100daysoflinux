@@ -27,4 +27,10 @@ The main goals of my "100 days of Linux" challenge are:
 
 - Hardware upgrades - I replaced broken laptop display with a new one and upgraded the RAM (8 -> 16 GiB).
 
- 
+- I read actively (= I read and did all quizzes and hands-on exercises from) the first 3 chapters from the excelent Vim tutorial [Mastering Vim Quickly](https://jovicailic.org/mastering-vim-quickly/).
+
+- I read actively one chapter about Linux installation from my [RHCSA](https://www.sandervanvugt.com/red-hat-rhce-8-ex294-cert-guide/) book.
+
+- I upgraded my default VirtualBox sandbox with Red Hat 9, installed Alma Linux 9 on another virtual machine. 
+
+New #Anki flashcards: 17
