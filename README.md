@@ -34,8 +34,10 @@ The main goals of my "100 days of Linux" challenge are:
 - I upgraded my default VirtualBox sandbox with Red Hat 9, installed Alma Linux 9 on another virtual machine. 
 
 New #Anki flashcards: 17
+
 (Update: flashcards imported from Logseq look terrible - I'm going to write own export tool in Python).
 
 ### &#128994; 2023-10-17 Day 02
 
-- I read actively the next chapter *Using essential tools* from my RHCSA book (without the last exercise!).
+- I read actively the next chapter *Using essential tools* from my RHCSA book (without the last exercise!) about working with shell, man pages and basic Vim commands.
+
