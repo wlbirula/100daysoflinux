@@ -39,5 +39,9 @@ New #Anki flashcards: 17
 
 ### &#128994; 2023-10-17 Day 02
 
-- I read actively the next chapter *Using essential tools* from my RHCSA book (without the last exercise!) about working with shell, man pages and basic Vim commands.
+- I read actively the next chapter **Using essential tools** from my RHCSA book (without the last exercise!) about working with shell, man pages and basic Vim commands.
+
+### &#128308; 2023-10-18
+
+### &#128308; 2023-10-19
 
