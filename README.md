@@ -50,7 +50,6 @@ New #Anki flashcards: 17
 ### &#128308; 2023-10-21
 
 > As expected, right from the start of the challenge - unplanned health issues, urgent side hustles and a complete lack of time.
-
 > I will not give up! #100DaysOfLinux
 
 ### &#128308; 2023-10-22
@@ -59,7 +58,7 @@ New #Anki flashcards: 17
 
 ### &#128994; 2023-10-24 Day 01 (let's start again!)
 
-- Watched some movies on YT about [DevOps Career Path](https://www.youtube.com/watch?v=IiuWlqabx9M) (thanks, @rodgtr1!)
+- Watched some movies on YT about [DevOps Career Path](https://www.youtube.com/watch?v=IiuWlqabx9M) (thanks, [@rodgtr1](https://github.com/rodgtr1)!)
 
 - #Anki review
 
