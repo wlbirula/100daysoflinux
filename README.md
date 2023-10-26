@@ -62,4 +62,7 @@ New #Anki flashcards: 17
 
 - #Anki review
 
+### &#128994; 2023-10-24 Day 02
+
+- Watched video on YT [Introduction to DevOps](https://www.youtube.com/watch?v=FDTgmtDfqCQ) (PL) 
 
